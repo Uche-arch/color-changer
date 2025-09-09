@@ -9,6 +9,7 @@
 2. [Demo](#demo)
 3. [Feautres](#features)
 4. [Installation](#installation)
+5. [Conventional-commit-types](#conventional-commit-types--quick-reference)
 
 
 ---
