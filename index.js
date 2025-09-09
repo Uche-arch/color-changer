@@ -7,6 +7,6 @@ function changeColor() {
     "#a29bfe",
     "#fd79a8",
   ];
-  const randomColor = colors[Math.floor(Math.random() * colors)];
+  const randomColor = colors[Math.floor(Math.random() * colors.length)];
   document.body.style.backgroundColor = randomColor;
 }
